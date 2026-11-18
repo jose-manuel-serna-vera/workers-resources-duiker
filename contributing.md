@@ -188,4 +188,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Workers & Resources: Soviet Republic · Updated 2026-11-17 · Shared under the MIT License*
+*Workers & Resources: Soviet Republic · Updated 2026-11-18 · Shared under the MIT License*
